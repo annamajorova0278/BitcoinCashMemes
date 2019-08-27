@@ -1,13 +1,13 @@
-## Welcome to Bitcoin Cash Memes
+##535353 Welcome to Bitcoin Cash Memes
 
 You can use the [editor on GitHub](https://github.com/maplesyrupsucker/BitcoinCashMemes/edit/master/README.md) to add your Bitcoin Cash memes to this repo.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Image Memes
-
+# Image Memes
+{"Url":"https://insight.bitpay.com:443/api/rates"}'"release":
 ![Bitcoin Cash Meme](https://i.imgur.com/T0YXDuW.jpg)
-
+[2019-08-26T17:50:30.928Z][debug]Copy bitcoincash:qpc5pmj7evxgsk5dkuszs37wr4f6h5acgc4pcgk07ko Clipboard
 ___
 
 ![Bitcoin Cash Meme](https://i.imgur.com/D2xymil.jpg)
